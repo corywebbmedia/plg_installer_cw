@@ -6,8 +6,8 @@
     <copyright>Copyright (C) 2016 Cory Webb Media, LLC. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>joomla@corywebbmedia.com</authorEmail>
-    <authorUrl>http://corywebbmedia.com/joomla-extensions</authorUrl>
-    <version>1.0.0</version>
+    <authorUrl>https://cwextensions.com</authorUrl>
+    <version>1.0.1</version>
     <description>PLG_INSTALLER_CW_XML_DESCRIPTION</description>
     <files>
         <filename plugin="cw">cw.php</filename>
@@ -28,6 +28,6 @@
     </config>
 
     <updateservers>
-        <server type="extension" name="CW Installer Plugin Updates"><![CDATA[https://corywebbmedia.com/cw-installer-plugin-update-stream/?view=update&dummy=extension.xml]]></server>
+        <server type="extension" name="CW Installer Plugin Updates"><![CDATA[https://cwextensions.com/cw-installer-plugin-update-stream/?view=update&dummy=extension.xml]]></server>
     </updateservers>
 </extension>
